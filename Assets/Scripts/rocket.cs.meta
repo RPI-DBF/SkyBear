@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81d26724d9ac62844a1dbd19198ce003
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbodyRocket: {fileID: 1397161824687034, guid: ce99bf07dcb69094fa3bc8e21fb288d3,
+      type: 2}
+  - dragVector: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
